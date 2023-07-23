@@ -1,5 +1,8 @@
 # Algamoney-api
-Projeto desenvolvido no curso de Spring do Algaworks
+
+Esse repositorio contém o desenvolvimento back-and do projeto Algamoney, construído e ensinado pela AlgaWorks no curso Fullstack Angular e Spring.
+O Algamoney é um software para controle e acompanhamento financeiro de receitas e despesas.
+
 
 ## Tecnologias utilizadas
 
